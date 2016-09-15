@@ -1,0 +1,60 @@
+/*
+Theme Name  : FoundationPress Retail Child
+Theme URI   : http://www.zero1.co.za
+Description : Foundation Press Child Theme
+Author      : Tshigofatso Sebatlelo
+Author URI  : http://www.tshigo.com
+Template    : FoundationPress
+Version     : 1.0.0
+License     : GNU General Public License v2 or later
+License URI : https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html
+Tags        : light, dart, foundation,two-columns, responsive-layout, accessibility-ready, SEO
+Text Domain : FoundationPress-child
+*/
+/*
+READ ME
+
+Sass is a superset of CSS that adds in amazing features
+such as variables, nested selectors and loops. It's also
+the easiest way to customize Foundation.
+
+All Sass files are located in the /assets/scss folder.
+Please note that none of your scss files will be compiled to /stylesheets/foundation.css before you run
+'npm run watch' or 'npm run build'.
+
+*/
+/*===============================================================
+General Css
+================================================================*/
+/*===============================================================
+Navigation
+================================================================*/
+/*===============================================================
+hero
+================================================================*/
+/*===============================================================
+section - testimonies
+================================================================*/
+/*===============================================================
+section - clients
+================================================================*/
+/*===============================================================
+section - about us
+================================================================*/
+/*===============================================================
+section - contact us
+================================================================*/
+/*===============================================================
+section - google maps
+================================================================*/
+/*===============================================================
+section - service/products
+================================================================*/
+/*===============================================================
+section - pakages
+================================================================*/
+/*===============================================================
+footer
+================================================================*/
+
+/*# sourceMappingURL=style.css.map */
